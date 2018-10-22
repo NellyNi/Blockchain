@@ -1,2 +1,2 @@
 # Blockchain
-CS130A Assignment1
+Assignment1
